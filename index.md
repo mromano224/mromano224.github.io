@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Matthew Romano and I am currently a Junior at Lehigh University studying Finance. I have a deep interest in Fintech and learning how to use computer science platforms like Python and SQL to assist in my financial evaluations. I also have a well-rounded skill set in financial analysis, developing financial models, and performing valuation methodologies making me an ideal fit for this intern position and I am looking forward to applying what I have learned in my finance classes to real world experiences!          [image](https://user-images.githubusercontent.com/60525001/161589492-153914cd-1587-43ee-9eab-7c8e3fbe53cd.png)
+My name is Matthew Romano and I am currently a Junior at Lehigh University studying Finance. I have a deep interest in Fintech and learning how to use computer science platforms like Python and SQL to assist in my financial evaluations. I also have a well-rounded skill set in financial analysis, developing financial models, and performing valuation methodologies making me an ideal fit for this intern position and I am looking forward to applying what I have learned in my finance classes to real world experiences!          
 
 
 <!-- Upload your own photo and change the path -->
