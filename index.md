@@ -32,15 +32,10 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Eventual team project](https://sebastianstoneham.github.io/sebfitzromano/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
