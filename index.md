@@ -22,13 +22,6 @@ You can show off your midterm analysis by moving the report components and outpu
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -49,7 +42,7 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I enjoy playing rugby and working out.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
